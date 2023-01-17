@@ -1,0 +1,147 @@
+.list {
+  list-style: none;
+}
+.link {
+  text-decoration: none;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  color: #2e2f42;
+}
+.logotype-item {
+  color: #2e2f42;
+}
+.logotype {
+  cursor: pointer;
+  color: #4d5ae5;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 0.85;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.logotype:hover,
+.logotype:focus {
+  color: #404bbf;
+}
+.menu-link:hover {
+  color: #404bbf;
+}
+.menu-link {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 0.67;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.phone-number {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 0.67;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.mail-post:hover {
+  color: #404bbf;
+}
+.mail-post {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 0.67;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.button {
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 0.67;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.04em;
+  background: #4d5ae5;
+}
+.button-filters{
+  cursor: pointer;
+  font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 0.67;
+align-items: center;
+text-align: center;
+letter-spacing: 0.04em;
+background: #F4F4FD;
+color: #4D5AE5;
+}
+.button-filters:hover{
+  color: #F4F4FD;
+  background: #404bbf;
+}
+.button:hover {
+  background: #404bbf;
+}
+.hero-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 0.9;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 0.9;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+.suptitle {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 0.67;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.title-item {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 0.8;
+  letter-spacing: 0.02em;
+}
+.footer-subtitle {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 0.67;
+  letter-spacing: 0.02em;
+  color: #e7e9fc;
+}
+.title-name {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 0.8;
+  text-align: center;
+  letter-spacing: 0.02em;
+}
+.position {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 0.67;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
